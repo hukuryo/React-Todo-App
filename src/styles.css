@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.todoItem {
+  margin-bottom: 5px;
+}
+
+.Btn {
+  margin-left: 5px;
+}
